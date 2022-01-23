@@ -32,9 +32,14 @@
     text-transform: none;
 }
 
+.reveal p {
+    margin: 10px 0;
+}
+
 .reveal pre,
 .reveal table {
-    margin: 0;
+    margin: 10px;
+    padding: 0;
 }
 
 .reveal blockquote {
