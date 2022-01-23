@@ -15,6 +15,13 @@
     font-size: 0.5em;
 }
 
+.reveal p.date::after {
+    content: "Slides available under CC-BY-SA 4.0";
+    display: block;
+    padding-top: 10%;
+    font-size: 0.8em;
+}
+
 /* Elements */
 .reveal h1,
 .reveal h2,
